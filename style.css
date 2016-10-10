@@ -1,0 +1,12 @@
+.done {
+  text-decoration: line-through;
+  background-color: mistyrose;
+
+}
+.todo {
+  text-decoration: none;
+  background-color: transparent;
+}
+#do-list li {
+
+}
